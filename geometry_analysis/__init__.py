@@ -5,6 +5,7 @@ A python package for the MolSSI Software Summer School
 
 # Add imports here
 from .molecule import *
+from .measure import * #add second module, * means everything imported
 
 # Handle versioneer
 from ._version import get_versions
