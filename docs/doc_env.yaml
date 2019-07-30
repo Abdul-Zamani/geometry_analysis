@@ -8,7 +8,7 @@ dependencies:
     # Testing
   - pytest
   - pytest-cov
-  - codecov
+    #- codecov
 
     # Dependencies
   - numpy
